@@ -7,6 +7,8 @@ public class FirstGtHub {
         System.out.println("First trial");
 
         System.out.println("Second");
+        
+         System.out.println("Second");
     }
 
 }
